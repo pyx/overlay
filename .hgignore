@@ -1,0 +1,19 @@
+syntax: regexp
+
+syntax: glob
+.bzr
+.git
+.svn
+
+Session.vim
+.netrwhist
+
+*~
+*.sw[a-z]
+*.old
+*.bak
+*.tmp
+
+*.orig
+*.patch
+*.diff

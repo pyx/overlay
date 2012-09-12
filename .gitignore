@@ -1,0 +1,8 @@
+.*.sw[a-z]
+*~
+Session.vim
+.netrwhist
+
+.svn/
+/.hg/*
+*/.hg/*
