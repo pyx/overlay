@@ -21,7 +21,7 @@ IUSE="debug server editor +client sse"
 # http://ufoai.ninex.info/wiki/index.php/Compile_for_Linux
 DEPEND="!server? (
 		virtual/opengl
-		 virtual/glu
+		virtual/glu
 		media-libs/libsdl2
 		media-libs/sdl2-image[jpeg,png]
 		media-libs/sdl2-ttf
